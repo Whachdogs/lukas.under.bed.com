@@ -1,11 +1,13 @@
-/* style.css */
 body {
     background-color: #1a1a2e;
     margin: 0;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 40px 0;  
+    box-sizing: border-box;
 }
 
 #Aleatorio {
@@ -18,6 +20,5 @@ body {
 #Lukas {
     color: #e0e0e0;
     font-size: 80px;
-    margin-top: 84px; 
-    padding: 40px;
+    text-align: center;
 }
