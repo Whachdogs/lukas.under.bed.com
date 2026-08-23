@@ -1,0 +1,16 @@
+/* style.css */
+body {
+    background-color: #1a1a2e;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Aleatorio {
+    color: #e0e0e0;
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+}
