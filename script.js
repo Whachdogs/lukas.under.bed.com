@@ -2,7 +2,7 @@ function aleatorio(){
     return Math.random() < 0.5 ? "Si" : "No";
 }
 
-let lukas = [" Lukas Santo"," Lukas Telefonear", " Lukas Almuerzo", " Lukas Festival", " Lukas Comprar", " Lukas Pala"];
+let lukas = [" Lukas Santo"," Lukas Telefonear", " Lukas Almuerzo", " Lukas Festival", " Lukas Comprar", " Lukas Pala", "Lukas Casar", "Lukas Disfraz", "Lukas vaca"];
 
 let resultado = aleatorio();  
 let randomLukas = "";      
